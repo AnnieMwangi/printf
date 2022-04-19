@@ -1,0 +1,1 @@
+printf() printf project that is a collaboration between Anne Mwangi and Collins Kenduiwa. Where a function named "_printf" imitates the actual "printf" command located in stdio.h library. It contains some of the basic feautures and functions found in the manual 3 of "printf".
